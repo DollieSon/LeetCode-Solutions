@@ -11,3 +11,4 @@ pub mod leet52;
 pub mod leet2016;
 pub mod leet2833;
 pub mod leet733;
+pub mod leet2144;
