@@ -1,5 +1,4 @@
 use macros::sol_macro;
-
 sol_macro!();
 
 impl Solution {

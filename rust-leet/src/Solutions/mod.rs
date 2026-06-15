@@ -16,3 +16,4 @@ pub mod leetw184q1;
 pub mod leetw184q3;
 pub mod leetw505q1;
 pub mod leetw505q2;
+pub mod leet2095;
